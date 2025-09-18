@@ -1,0 +1,4 @@
+chown: /var/www/app/data: Operation not permitted
+chown: /var/www/app/data: Operation not permitted
+chown: /var/www/app/plugins: Operation not permitted
+chown: /var/www/app/plugins: Operation not permitted

@@ -1,0 +1,4 @@
+2025-05-08 01:44:02+00:00 [Note] [Entrypoint]: Entrypoint script for MariaDB Server 1:11.7.2+maria~ubu2404 started.
+chown: changing ownership of '/var/lib/mysql/': Operation not permitted
+2025-05-08 01:47:45+00:00 [Note] [Entrypoint]: Entrypoint script for MariaDB Server 1:11.7.2+maria~ubu2404 started.
+chown: changing ownership of '/var/lib/mysql/': Operation not permitted
